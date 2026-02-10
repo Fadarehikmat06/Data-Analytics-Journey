@@ -36,4 +36,4 @@ Data set: 1, 2, 2, 3, 5, 7, 20
 ---
 
 ## Reflection
-> Doing this manually made me realize that **numbers alone don’t tell the story**—how data is spread matters just as much as the center. Understanding this foundation makes me feel more confident moving into tools and real datasets.
+> Doing this manually made me realize that **numbers alone don’t tell the story**-how data is spread matters just as much as the center. Understanding this foundation makes me feel more confident moving into tools and real datasets.
